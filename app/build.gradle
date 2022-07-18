@@ -48,4 +48,7 @@ dependencies {
 
 //    costum toast
     implementation 'com.github.Spikeysanju:MotionToast:1.4'
+
+//    costum snackbar
+    implementation 'com.github.antonygolovin:fluentsnackbar:1.0.0'
 }
